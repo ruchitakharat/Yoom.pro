@@ -1,6 +1,6 @@
-# Meetify - Video Meeting App  
+# Yoom - Video Meeting App  
 
-Meetify is a modern video conferencing app built with **Next.js**, featuring real-time chat, screen sharing, and secure authentication.  
+Yoom is a modern video conferencing app built with **Next.js**, featuring real-time chat, screen sharing, and secure authentication.  
 
 ## 🚀 Features  
 - One-click video meetings  
@@ -15,7 +15,7 @@ Meetify is a modern video conferencing app built with **Next.js**, featuring rea
 
 ## 📦 Installation  
 ```bash
-git clone https://github.com/coder-chitra/Meetify.git
-cd Meetify
+git clone https://github.com/coder-chitra/yoom.git
+cd yoom
 npm install
 npm run dev
