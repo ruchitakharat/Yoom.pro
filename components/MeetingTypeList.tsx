@@ -67,7 +67,7 @@ const MeetingTypeList = () => {
 
   if (!client || !user) return <Loader />;
 
-  const meetingLink = `https://yoom-pi.vercel.app/meeting/${callDetail?.id}`;
+  const meetingLink = `https://yoom-pro.vercel.app/meeting/${callDetail?.id}`;
 
   return (
     <section className="grid grid-cols-1 gap-5 md:grid-cols-2 xl:grid-cols-4">
