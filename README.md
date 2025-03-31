@@ -15,7 +15,7 @@ Yoom is a modern video conferencing app built with **Next.js**, featuring real-t
 
 ## 📦 Installation  
 ```bash
-git clone https://github.com/coder-chitra/yoom.git
+git clone https://github.com/ruchitakharat/Yoom.pro.git
 cd yoom
 npm install
 npm run dev
